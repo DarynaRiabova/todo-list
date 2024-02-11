@@ -7,7 +7,7 @@ const imageFilenames = [
   "green-fish.png",
   "yellow-fish.png",
   "indigo-fish.png",
-  "red-fish.png",
+  "Red-fish.png",
 ];
 
 // Load tasks from localStorage on page load
